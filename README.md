@@ -3,7 +3,7 @@ This directory contains worked out problems from coding ninjas online course on 
 
 Following topics are covered: 
 
-####A. Data Structures
+#### A. Data Structures
 1. Arrays
 2. Strings
 3. Linked Lists
@@ -16,7 +16,7 @@ Following topics are covered:
 10. Heaps (Priority Queues)
 
 
-####B. Algorithms
+#### B. Algorithms
 1. Sorting
 2. Recursion
 3. Backtracking
