@@ -1,0 +1,9 @@
+1. Intro to OOPS
+2. Classes and Objects
+3. Attributes
+4. Class attributes ans Object Attributes
+5. Self Parameter
+6. Static Method
+7. Init Method
+8. Class Method
+9. Public and Private Modifiers
